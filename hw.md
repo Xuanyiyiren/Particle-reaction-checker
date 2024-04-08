@@ -1,6 +1,6 @@
-The answer is obtained by the python code in my repository
+The answer is obtained by the python code in my repository:
 
-
+[https://github.com/Xuanyiyiren/Particle-reaction-checker/blob/main/reactionchecker.ipynb](https://github.com/Xuanyiyiren/Particle-reaction-checker/blob/main/reactionchecker.ipynb)
 
 ---
 
